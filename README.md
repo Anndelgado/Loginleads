@@ -54,8 +54,9 @@ EMAIL = admin@gmail.com
 PASSWORD = 123456
 
 Estos capos puedes modificarlos como desees. Luego de esto puedes ejecutar la aplicación mediante el comando (npm run start:dev)
+```
 
-##Configurar el Postman
+##Luego
 
 
 ## Test
