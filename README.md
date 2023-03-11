@@ -58,9 +58,9 @@ EMAIL = admin@gmail.com
 PASSWORD = 123456
 
 Estos capos puedes modificarlos como desees. Luego de esto puedes ejecutar la aplicación mediante el comando (npm run start:dev)
-```
-##Luego
 
+##Luego
+Lo siguiente seria ingresar a tu Postman y hacer pruebas, este te genera token, para verificarlos debe ser atreves de jwt.io en donde deberás poner el token que te generó postman.
 
 
 ```
