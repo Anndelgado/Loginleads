@@ -46,19 +46,24 @@ $ npm run start:prod
 ```
 ## Configurar .env
 Después de haber descargado el repositorio de githut, use el siguiente comando en la terminal (npm install) para instalar todos los módulos necesarios para que funcione correctamente.
+
 Luego en la carpeta raíz (loginleads), debes crear un archivo con el nombre (.env), para tener las variables de entorno. En ese archvi debe estar:
 
 ID = 1
+
 NAME = Administrador
+
 EMAIL = admin@gmail.com
+
 PASSWORD = 123456
 
 Estos capos puedes modificarlos como desees. Luego de esto puedes ejecutar la aplicación mediante el comando (npm run start:dev)
 ```
-
 ##Luego
 
 
+
+```
 ## Test
 
 ```bash
